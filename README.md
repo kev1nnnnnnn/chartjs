@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Chart JS
 
 <h2>Instalação das dependências do gráfico.</h2>
 
